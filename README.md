@@ -1,6 +1,6 @@
 # Juanita du Preez
 
-Co-creator and Lead Engineer of [Axlo](https://axlo.vercel.app), a multi-tenant platform for car rental and fleet companies. I have been its only maintainer since September 2026. Open to full-time and contract work, fully remote.
+Co-creator and Lead Engineer of [Axlo](https://axlo.vercel.app) by SyncTech, a multi-tenant platform for car rental and fleet companies. I have been its only maintainer since September 2026. Open to full-time and contract work, fully remote.
 
 Axlo's code is private, so my commits show here only as private contributions. You can try the product instead:
 
